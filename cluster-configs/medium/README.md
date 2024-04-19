@@ -1,6 +1,7 @@
 # `medium` cluster
 r5.4xlarge (vCPU: 16, Memory: 124 GB) * 8
 
+
 ### Global
 * `SysReservedMemCapGb = 2`
 * `SysReservedMemPercent = 0.05`
